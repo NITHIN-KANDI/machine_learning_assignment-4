@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
 # Load the dataset
-dataset = pd.read_excel("C:\\OS\\Machine learning\\Machine Learning Lab\\LAB4-20.02.24\\training_mathbert 2.xlsx")
+dataset = pd.read_excel("training_mathbert 2.xlsx")
 
 # Select two feature vectors for distance calculation
 feature_1 = 'embed_0'
