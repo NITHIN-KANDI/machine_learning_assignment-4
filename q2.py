@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the dataset
-dataset = pd.read_excel("C:\\OS\\Machine learning\\Machine Learning Lab\\LAB4-20.02.24\\training_mathbert 2.xlsx")
+dataset = pd.read_excel("training_mathbert 2.xlsx")
 
 # Select the feature (column) for which you want to generate the histogram
 feature = 'embed_0'
